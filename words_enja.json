@@ -1,22 +1,1602 @@
 [
   {
-    "en": "advise",
-    "ja": "勧める"
+    "en": "anyway",
+    "ja": "とにかく"
   },
   {
-    "en": "ensure",
-    "ja": "保証する"
+    "en": "following",
+    "ja": "に続いて"
   },
   {
-    "en": "enable",
-    "ja": "可能にする"
+    "en": "refer",
+    "ja": "参照して"
+  },
+  {
+    "en": "avallable",
+    "ja": "入手可能"
+  },
+  {
+    "en": "department",
+    "ja": "部"
+  },
+  {
+    "en": "conference",
+    "ja": "会議"
+  },
+  {
+    "en": "according to",
+    "ja": "によると"
+  },
+  {
+    "en": "likely",
+    "ja": "おそらく"
+  },
+  {
+    "en": "offer",
+    "ja": "申し出て"
+  },
+  {
+    "en": "equipment",
+    "ja": "機器"
+  },
+  {
+    "en": "provide",
+    "ja": "提供して"
+  },
+  {
+    "en": "local",
+    "ja": "地元の"
+  },
+  {
+    "en": "purchase",
+    "ja": "購入する"
+  },
+  {
+    "en": "opening",
+    "ja": "空き"
+  },
+  {
+    "en": "construction",
+    "ja": "建設"
+  },
+  {
+    "en": "tour",
+    "ja": "見学"
+  },
+  {
+    "en": "research",
+    "ja": "調査"
+  },
+  {
+    "en": "attend",
+    "ja": "出席"
+  },
+  {
+    "en": "delivery",
+    "ja": "配達"
+  },
+  {
+    "en": "recently",
+    "ja": "最近"
+  },
+  {
+    "en": "indicate",
+    "ja": "示されて"
+  },
+  {
+    "en": "employee",
+    "ja": "従業員"
+  },
+  {
+    "en": "additional",
+    "ja": "追加の"
+  },
+  {
+    "en": "survey",
+    "ja": "アンケート調査"
+  },
+  {
+    "en": "review",
+    "ja": "目を通す"
+  },
+  {
+    "en": "production",
+    "ja": "生産"
+  },
+  {
+    "en": "located",
+    "ja": "場所にある"
+  },
+  {
+    "en": "detail",
+    "ja": "詳細"
+  },
+  {
+    "en": "announce",
+    "ja": "発表する"
+  },
+  {
+    "en": "repair",
+    "ja": "修理"
+  },
+  {
+    "en": "increse",
+    "ja": "増加"
+  },
+  {
+    "en": "include",
+    "ja": "含まれて"
+  },
+  {
+    "en": "currently",
+    "ja": "現在"
+  },
+  {
+    "en": "advertising",
+    "ja": "広告"
+  },
+  {
+    "en": "charge",
+    "ja": "請求します"
+  },
+  {
+    "en": "expect",
+    "ja": "予定"
+  },
+  {
+    "en": "firm",
+    "ja": "会社"
+  },
+  {
+    "en": "client",
+    "ja": "顧客"
+  },
+  {
+    "en": "financial",
+    "ja": "お金の"
+  },
+  {
+    "en": "annual",
+    "ja": "年次"
+  },
+  {
+    "en": "payment",
+    "ja": "支払い"
+  },
+  {
+    "en": "budget",
+    "ja": "予算"
+  },
+  {
+    "en": "applicarion",
+    "ja": "応募書類"
+  },
+  {
+    "en": "contract",
+    "ja": "契約"
+  },
+  {
+    "en": "management",
+    "ja": "経営"
+  },
+  {
+    "en": "performance",
+    "ja": "成績"
+  },
+  {
+    "en": "pleased",
+    "ja": "満足して"
   },
   {
     "en": "confirm",
     "ja": "確認する"
   },
   {
+    "en": "award",
+    "ja": "授賞"
+  },
+  {
+    "en": "clothing",
+    "ja": "衣料品"
+  },
+  {
+    "en": "display",
+    "ja": "展示する"
+  },
+  {
+    "en": "candidate",
+    "ja": "候補者"
+  },
+  {
+    "en": "state",
+    "ja": "述べる"
+  },
+  {
+    "en": "exhibit",
+    "ja": "展示物"
+  },
+  {
+    "en": "session",
+    "ja": "時間"
+  },
+  {
+    "en": "note",
+    "ja": "注意する"
+  },
+  {
+    "en": "process",
+    "ja": "処理する"
+  },
+  {
+    "en": "instruction",
+    "ja": "説明書"
+  },
+  {
+    "en": "membership",
+    "ja": "会員"
+  },
+  {
+    "en": "agency",
+    "ja": "代理店"
+  },
+  {
+    "en": "based",
+    "ja": "拠点を置く"
+  },
+  {
+    "en": "facility",
+    "ja": "施設"
+  },
+  {
+    "en": "advance",
+    "ja": "事前の"
+  },
+  {
+    "en": "committee",
+    "ja": "委員会"
+  },
+  {
+    "en": "successful",
+    "ja": "成功した"
+  },
+  {
+    "en": "excellent",
+    "ja": "素晴らしい"
+  },
+  {
+    "en": "industry",
+    "ja": "業界"
+  },
+  {
+    "en": "fee",
+    "ja": "料金"
+  },
+  {
+    "en": "accept",
+    "ja": "受け入れる"
+  },
+  {
+    "en": "upcoming",
+    "ja": "今度の"
+  },
+  {
+    "en": "latest",
+    "ja": "最新の"
+  },
+  {
+    "en": "submit",
+    "ja": "提出する"
+  },
+  {
+    "en": "transportation",
+    "ja": "交通機関"
+  },
+  {
+    "en": "résumé",
+    "ja": "履歴書"
+  },
+  {
+    "en": "executive",
+    "ja": "重役"
+  },
+  {
+    "en": "introduce",
+    "ja": "導入する"
+  },
+  {
+    "en": "previous",
+    "ja": "以前の"
+  },
+  {
+    "en": "proposal",
+    "ja": "提案"
+  },
+  {
+    "en": "supply",
+    "ja": "用品"
+  },
+  {
+    "en": "enclose",
+    "ja": "同封する"
+  },
+  {
+    "en": "policy",
+    "ja": "規定"
+  },
+  {
+    "en": "register",
+    "ja": "登録する"
+  },
+  {
+    "en": "arrange",
+    "ja": "手配する"
+  },
+  {
+    "en": "bill",
+    "ja": "請求書"
+  },
+  {
+    "en": "hire",
+    "ja": "雇う"
+  },
+  {
+    "en": "approve",
+    "ja": "承認する"
+  },
+  {
+    "en": "conduct",
+    "ja": "行う"
+  },
+  {
+    "en": "opportunity",
+    "ja": "機会"
+  },
+  {
+    "en": "deadline",
+    "ja": "締め切り"
+  },
+  {
+    "en": "corporate",
+    "ja": "企業の"
+  },
+  {
+    "en": "warranty",
+    "ja": "保証"
+  },
+  {
+    "en": "necessary",
+    "ja": "必要な"
+  },
+  {
+    "en": "reserve",
+    "ja": "予約する"
+  },
+  {
+    "en": "resident",
+    "ja": "住民"
+  },
+  {
+    "en": "create",
+    "ja": "作り出す"
+  },
+  {
+    "en": "inform",
+    "ja": "知らせる"
+  },
+  {
+    "en": "allow",
+    "ja": "可能にする"
+  },
+  {
+    "en": "mention",
+    "ja": "述べる"
+  },
+  {
+    "en": "appreciate",
+    "ja": "感謝する"
+  },
+  {
+    "en": "replacement",
+    "ja": "交換"
+  },
+  {
+    "en": "update",
+    "ja": "最新情報"
+  },
+  {
+    "en": "branch",
+    "ja": "支店"
+  },
+  {
+    "en": "paid",
+    "ja": "有給の"
+  },
+  {
+    "en": "unfortunately",
+    "ja": "残念ながら"
+  },
+  {
+    "en": "original",
+    "ja": "元の"
+  },
+  {
+    "en": "rent",
+    "ja": "家賃"
+  },
+  {
+    "en": "memo",
+    "ja": "社内文書"
+  },
+  {
+    "en": "luggage",
+    "ja": "旅行かばん"
+  },
+  {
+    "en": "editor",
+    "ja": "編集者"
+  },
+  {
+    "en": "exhibition",
+    "ja": "展示会"
+  },
+  {
+    "en": "leading",
+    "ja": "トップの"
+  },
+  {
+    "en": "organization",
+    "ja": "組織"
+  },
+  {
+    "en": "release",
+    "ja": "発売する"
+  },
+  {
+    "en": "limited",
+    "ja": "限定の"
+  },
+  {
+    "en": "procedure",
+    "ja": "手続き"
+  },
+  {
+    "en": "experienced",
+    "ja": "経験豊かな"
+  },
+  {
+    "en": "personnel",
+    "ja": "社員"
+  },
+  {
+    "en": "author",
+    "ja": "著者"
+  },
+  {
+    "en": "benefit",
+    "ja": "福利厚生"
+  },
+  {
+    "en": "focus",
+    "ja": "集中する"
+  },
+  {
+    "en": "participate",
+    "ja": "参加する"
+  },
+  {
+    "en": "cause",
+    "ja": "原因"
+  },
+  {
+    "en": "degree",
+    "ja": "学位"
+  },
+  {
+    "en": "directly",
+    "ja": "直接"
+  },
+  {
+    "en": "host",
+    "ja": "司会者"
+  },
+  {
+    "en": "expert",
+    "ja": "専門家"
+  },
+  {
+    "en": "impress",
+    "ja": "感心させる"
+  },
+  {
+    "en": "mainly",
+    "ja": "主に"
+  },
+  {
+    "en": "suggestion",
+    "ja": "提案"
+  },
+  {
+    "en": "supplier",
+    "ja": "納入業者"
+  },
+  {
+    "en": "document",
+    "ja": "書類"
+  },
+  {
+    "en": "remind",
+    "ja": "再確認する"
+  },
+  {
+    "en": "require",
+    "ja": "求める"
+  },
+  {
+    "en": "representative",
+    "ja": "担当者"
+  },
+  {
+    "en": "packaging",
+    "ja": "梱包"
+  },
+  {
+    "en": "description",
+    "ja": "説明"
+  },
+  {
+    "en": "property",
+    "ja": "不動産"
+  },
+  {
+    "en": "extension",
+    "ja": "内線"
+  },
+  {
+    "en": "inquire",
+    "ja": "問い合わせる"
+  },
+  {
+    "en": "merchandise",
+    "ja": "商品"
+  },
+  {
+    "en": "highly",
+    "ja": "非常に"
+  },
+  {
+    "en": "result",
+    "ja": "結果"
+  },
+  {
+    "en": "assistance",
+    "ja": "支援"
+  },
+  {
+    "en": "encourage",
+    "ja": "奨励する"
+  },
+  {
+    "en": "individual",
+    "ja": "個人"
+  },
+  {
+    "en": "laboratory",
+    "ja": "研究所"
+  },
+  {
+    "en": "consider",
+    "ja": "検討する"
+  },
+  {
+    "en": "headquarters",
+    "ja": "本社"
+  },
+  {
+    "en": "ship",
+    "ja": "出荷する"
+  },
+  {
+    "en": "commercial",
+    "ja": "商業の"
+  },
+  {
+    "en": "device",
+    "ja": "機器"
+  },
+  {
+    "en": "intended",
+    "ja": "向けられた"
+  },
+  {
+    "en": "brochure",
+    "ja": "パンフレット"
+  },
+  {
+    "en": "mail",
+    "ja": "郵便"
+  },
+  {
+    "en": "prefer",
+    "ja": "好む"
+  },
+  {
+    "en": "response",
+    "ja": "返答"
+  },
+  {
+    "en": "region",
+    "ja": "地域"
+  },
+  {
+    "en": "donation",
+    "ja": "寄付"
+  },
+  {
+    "en": "quarter",
+    "ja": "四半期"
+  },
+  {
+    "en": "agreement",
+    "ja": "契約書"
+  },
+  {
+    "en": "journal",
+    "ja": "専門誌"
+  },
+  {
+    "en": "distribute",
+    "ja": "配布する"
+  },
+  {
+    "en": "potential",
+    "ja": "見込みがある"
+  },
+  {
+    "en": "reschedule",
+    "ja": "予定変更する"
+  },
+  {
+    "en": "renew",
+    "ja": "更新する"
+  },
+  {
+    "en": "warehouse",
+    "ja": "倉庫"
+  },
+  {
+    "en": "refund",
+    "ja": "返金"
+  },
+  {
+    "en": "advise",
+    "ja": "勧める"
+  },
+  {
+    "en": "immediately",
+    "ja": "すぐに"
+  },
+  {
+    "en": "council",
+    "ja": "議会"
+  },
+  {
+    "en": "broadcast",
+    "ja": "放送する"
+  },
+  {
+    "en": "responsible",
+    "ja": "担当して"
+  },
+  {
+    "en": "avoid",
+    "ja": "避ける"
+  },
+  {
+    "en": "effective",
+    "ja": "効果的な"
+  },
+  {
+    "en": "invitation",
+    "ja": "招待状"
+  },
+  {
+    "en": "reduce",
+    "ja": "（値段を）下げる"
+  },
+  {
+    "en": "vehicle",
+    "ja": "乗り物"
+  },
+  {
+    "en": "efficient",
+    "ja": "効率的な"
+  },
+  {
+    "en": "manufacturer",
+    "ja": "メーカー"
+  },
+  {
     "en": "comfortable",
     "ja": "快適な"
+  },
+  {
+    "en": "correct",
+    "ja": "正しい"
+  },
+  {
+    "en": "downtown",
+    "ja": "中心街"
+  },
+  {
+    "en": "method",
+    "ja": "方法"
+  },
+  {
+    "en": "entire",
+    "ja": "全体の"
+  },
+  {
+    "en": "range",
+    "ja": "範囲"
+  },
+  {
+    "en": "setting",
+    "ja": "環境"
+  },
+  {
+    "en": "apologize",
+    "ja": "おわびする"
+  },
+  {
+    "en": "frequent",
+    "ja": "頻繁な"
+  },
+  {
+    "en": "promotion",
+    "ja": "昇進"
+  },
+  {
+    "en": "regarding",
+    "ja": "に関して"
+  },
+  {
+    "en": "temporary",
+    "ja": "臨時"
+  },
+  {
+    "en": "traditional",
+    "ja": "伝統的な"
+  },
+  {
+    "en": "admission",
+    "ja": "入場"
+  },
+  {
+    "en": "fit",
+    "ja": "入る"
+  },
+  {
+    "en": "reference",
+    "ja": "照会先"
+  },
+  {
+    "en": "status",
+    "ja": "状況"
+  },
+  {
+    "en": "fuel",
+    "ja": "燃料"
+  },
+  {
+    "en": "nearly",
+    "ja": "近く"
+  },
+  {
+    "en": "cafeteria",
+    "ja": "社員食堂"
+  },
+  {
+    "en": "determine",
+    "ja": "決定する"
+  },
+  {
+    "en": "expense",
+    "ja": "経費"
+  },
+  {
+    "en": "overseas",
+    "ja": "海外"
+  },
+  {
+    "en": "satisfied",
+    "ja": "満足した"
+  },
+  {
+    "en": "appear",
+    "ja": "掲載される"
+  },
+  {
+    "en": "develop",
+    "ja": "作り出す"
+  },
+  {
+    "en": "improve",
+    "ja": "改善する"
+  },
+  {
+    "en": "reasonable",
+    "ja": "手ごろな"
+  },
+  {
+    "en": "unable",
+    "ja": "できない"
+  },
+  {
+    "en": "delay",
+    "ja": "遅れる"
+  },
+  {
+    "en": "legal",
+    "ja": "法律に関する"
+  },
+  {
+    "en": "regulation",
+    "ja": "規制"
+  },
+  {
+    "en": "expand",
+    "ja": "拡大する"
+  },
+  {
+    "en": "launch",
+    "ja": "発売"
+  },
+  {
+    "en": "recommendation",
+    "ja": "推薦"
+  },
+  {
+    "en": "direct",
+    "ja": "向ける"
+  },
+  {
+    "en": "profit",
+    "ja": "利益"
+  },
+  {
+    "en": "seek",
+    "ja": "募集する"
+  },
+  {
+    "en": "entry",
+    "ja": "エントリー作品"
+  },
+  {
+    "en": "claim",
+    "ja": "申し立て"
+  },
+  {
+    "en": "crew",
+    "ja": "班"
+  },
+  {
+    "en": "demand",
+    "ja": "需要"
+  },
+  {
+    "en": "figure",
+    "ja": "数字"
+  },
+  {
+    "en": "raise",
+    "ja": "集める"
+  },
+  {
+    "en": "attach",
+    "ja": "添付する"
+  },
+  {
+    "en": "attract",
+    "ja": "引き付ける"
+  },
+  {
+    "en": "insurance",
+    "ja": "保険"
+  },
+  {
+    "en": "departure",
+    "ja": "出発"
+  },
+  {
+    "en": "mayor",
+    "ja": "町長"
+  },
+  {
+    "en": "balance",
+    "ja": "残高"
+  },
+  {
+    "en": "estimate",
+    "ja": "見積もり"
+  },
+  {
+    "en": "district",
+    "ja": "地区"
+  },
+  {
+    "en": "former",
+    "ja": "かつての"
+  },
+  {
+    "en": "modern",
+    "ja": "近代的な"
+  },
+  {
+    "en": "tip",
+    "ja": "コツ"
+  },
+  {
+    "en": "establish",
+    "ja": "設立する"
+  },
+  {
+    "en": "option",
+    "ja": "選択肢"
+  },
+  {
+    "en": "retire",
+    "ja": "退職する"
+  },
+  {
+    "en": "search",
+    "ja": "探す"
+  },
+  {
+    "en": "specific",
+    "ja": "具体的な"
+  },
+  {
+    "en": "agricultural",
+    "ja": "農業の"
+  },
+  {
+    "en": "historical",
+    "ja": "歴史上の"
+  },
+  {
+    "en": "helpful",
+    "ja": "役に立つ"
+  },
+  {
+    "en": "complaint",
+    "ja": "苦情"
+  },
+  {
+    "en": "related",
+    "ja": "関連"
+  },
+  {
+    "en": "simply",
+    "ja": "単純に"
+  },
+  {
+    "en": "unique",
+    "ja": "独自の"
+  },
+  {
+    "en": "concerning",
+    "ja": "関して"
+  },
+  {
+    "en": "reputation",
+    "ja": "評判"
+  },
+  {
+    "en": "ability",
+    "ja": "能力"
+  },
+  {
+    "en": "arrival",
+    "ja": "到着"
+  },
+  {
+    "en": "familiar",
+    "ja": "よく知っている"
+  },
+  {
+    "en": "ideal",
+    "ja": "理想的な"
+  },
+  {
+    "en": "maintain",
+    "ja": "維持する"
+  },
+  {
+    "en": "landscaping",
+    "ja": "造園"
+  },
+  {
+    "en": "organize",
+    "ja": "取りまとめる"
+  },
+  {
+    "en": "significant",
+    "ja": "かなりの"
+  },
+  {
+    "en": "occasion",
+    "ja": "行事"
+  },
+  {
+    "en": "standard",
+    "ja": "基準"
+  },
+  {
+    "en": "background",
+    "ja": "経歴，背景"
+  },
+  {
+    "en": "guided",
+    "ja": "ガイド付きの"
+  },
+  {
+    "en": "advanced",
+    "ja": "先端の"
+  },
+  {
+    "en": "alternative",
+    "ja": "代わりの"
+  },
+  {
+    "en": "confident",
+    "ja": "自信がある"
+  },
+  {
+    "en": "decade",
+    "ja": "10年間"
+  },
+  {
+    "en": "initial",
+    "ja": "最初の"
+  },
+  {
+    "en": "separate",
+    "ja": "分ける"
+  },
+  {
+    "en": "celebration",
+    "ja": "お祝い"
+  },
+  {
+    "en": "concern",
+    "ja": "懸念"
+  },
+  {
+    "en": "environment",
+    "ja": "環境"
+  },
+  {
+    "en": "operate",
+    "ja": "操作する"
+  },
+  {
+    "en": "various",
+    "ja": "さまざまな"
+  },
+  {
+    "en": "brief",
+    "ja": "短い"
+  },
+  {
+    "en": "full-time",
+    "ja": "常勤の"
+  },
+  {
+    "en": "overall",
+    "ja": "全体の"
+  },
+  {
+    "en": "achieve",
+    "ja": "達成する"
+  },
+  {
+    "en": "basis",
+    "ja": "基礎"
+  },
+  {
+    "en": "complex",
+    "ja": "複合施設"
+  },
+  {
+    "en": "delighted",
+    "ja": "喜んでいる"
+  },
+  {
+    "en": "obtain",
+    "ja": "得る"
+  },
+  {
+    "en": "honor",
+    "ja": "称える"
+  },
+  {
+    "en": "properly",
+    "ja": "きちんと"
+  },
+  {
+    "en": "suitable",
+    "ja": "適した"
+  },
+  {
+    "en": "electronic",
+    "ja": "電子"
+  },
+  {
+    "en": "finalize",
+    "ja": "取りまとめる"
+  },
+  {
+    "en": "generous",
+    "ja": "寛大な"
+  },
+  {
+    "en": "preparation",
+    "ja": "準備"
+  },
+  {
+    "en": "duty",
+    "ja": "任務"
+  },
+  {
+    "en": "earn",
+    "ja": "得る"
+  },
+  {
+    "en": "willing",
+    "ja": "意思がある"
+  },
+  {
+    "en": "worth",
+    "ja": "価値がある"
+  },
+  {
+    "en": "fund",
+    "ja": "資金提供する"
+  },
+  {
+    "en": "overnight",
+    "ja": "翌日の"
+  },
+  {
+    "en": "particularly",
+    "ja": "特に"
+  },
+  {
+    "en": "aspect",
+    "ja": "面"
+  },
+  {
+    "en": "hesitate",
+    "ja": "遠慮する"
+  },
+  {
+    "en": "involved",
+    "ja": "関わって"
+  },
+  {
+    "en": "regularly",
+    "ja": "定期的に"
+  },
+  {
+    "en": "scholarship",
+    "ja": "奨学金"
+  },
+  {
+    "en": "shortly",
+    "ja": "まもなく"
+  },
+  {
+    "en": "automobile",
+    "ja": "自動車"
+  },
+  {
+    "en": "deposit",
+    "ja": "保証金"
+  },
+  {
+    "en": "contain",
+    "ja": "含む"
+  },
+  {
+    "en": "content",
+    "ja": "内容"
+  },
+  {
+    "en": "proof",
+    "ja": "証明"
+  },
+  {
+    "en": "affect",
+    "ja": "影響する"
+  },
+  {
+    "en": "recognize",
+    "ja": "認める"
+  },
+  {
+    "en": "represent",
+    "ja": "代表する"
+  },
+  {
+    "en": "transfer",
+    "ja": "転勤する"
+  },
+  {
+    "en": "anniversary",
+    "ja": "記念日"
+  },
+  {
+    "en": "automatically",
+    "ja": "自動的に"
+  },
+  {
+    "en": "capacity",
+    "ja": "能力，役割"
+  },
+  {
+    "en": "destination",
+    "ja": "目的地"
+  },
+  {
+    "en": "grant",
+    "ja": "補助金"
+  },
+  {
+    "en": "publish",
+    "ja": "出版する"
+  },
+  {
+    "en": "accompany",
+    "ja": "付いてくる"
+  },
+  {
+    "en": "economic",
+    "ja": "経済の"
+  },
+  {
+    "en": "extremely",
+    "ja": "非常に"
+  },
+  {
+    "en": "institution",
+    "ja": "機関"
+  },
+  {
+    "en": "accurate",
+    "ja": "正確な"
+  },
+  {
+    "en": "compete",
+    "ja": "競う"
+  },
+  {
+    "en": "emphasize",
+    "ja": "強調する"
+  },
+  {
+    "en": "aware",
+    "ja": "気付いている"
+  },
+  {
+    "en": "crowded",
+    "ja": "混雑している"
+  },
+  {
+    "en": "praise",
+    "ja": "褒める"
+  },
+  {
+    "en": "valuable",
+    "ja": "貴重な"
+  },
+  {
+    "en": "explore",
+    "ja": "探る"
+  },
+  {
+    "en": "found",
+    "ja": "設立する"
+  },
+  {
+    "en": "function",
+    "ja": "機能"
+  },
+  {
+    "en": "impact",
+    "ja": "影響"
+  },
+  {
+    "en": "amazing",
+    "ja": "驚くべき"
+  },
+  {
+    "en": "assure",
+    "ja": "保証する"
+  },
+  {
+    "en": "cooperation",
+    "ja": "協力"
+  },
+  {
+    "en": "popularity",
+    "ja": "人気"
+  },
+  {
+    "en": "permit",
+    "ja": "許可証"
+  },
+  {
+    "en": "solve",
+    "ja": "解決する"
+  },
+  {
+    "en": "vote",
+    "ja": "投票する"
+  },
+  {
+    "en": "crop",
+    "ja": "作物"
+  },
+  {
+    "en": "neighborhood",
+    "ja": "近所"
+  },
+  {
+    "en": "permanent",
+    "ja": "常設の"
+  },
+  {
+    "en": "regret",
+    "ja": "残念に思う"
+  },
+  {
+    "en": "slightly",
+    "ja": "わずかに"
+  },
+  {
+    "en": "complicated",
+    "ja": "複雑な"
+  },
+  {
+    "en": "factor",
+    "ja": "要因"
+  },
+  {
+    "en": "favorable",
+    "ja": "好意的な"
+  },
+  {
+    "en": "guarantee",
+    "ja": "保証する"
+  },
+  {
+    "en": "mechanical",
+    "ja": "機械の"
+  },
+  {
+    "en": "priority",
+    "ja": "優先順位"
+  },
+  {
+    "en": "relatively",
+    "ja": "比較的"
+  },
+  {
+    "en": "resource",
+    "ja": "資源"
+  },
+  {
+    "en": "shuttle",
+    "ja": "送迎バス"
+  },
+  {
+    "en": "divide",
+    "ja": "分ける"
+  },
+  {
+    "en": "native",
+    "ja": "出身の"
+  },
+  {
+    "en": "afford",
+    "ja": "余裕がある"
+  },
+  {
+    "en": "income",
+    "ja": "収入"
+  },
+  {
+    "en": "occur",
+    "ja": "発生する"
+  },
+  {
+    "en": "saving",
+    "ja": "値引き"
+  },
+  {
+    "en": "findings",
+    "ja": "調査結果"
+  },
+  {
+    "en": "locate",
+    "ja": "見つける"
+  },
+  {
+    "en": "postpone",
+    "ja": "延期する"
+  },
+  {
+    "en": "preserve",
+    "ja": "保存する"
+  },
+  {
+    "en": "prove",
+    "ja": "証明する"
+  },
+  {
+    "en": "exact",
+    "ja": "正確な"
+  },
+  {
+    "en": "gain",
+    "ja": "得る"
+  },
+  {
+    "en": "labor",
+    "ja": "労働"
+  },
+  {
+    "en": "regard",
+    "ja": "見なす"
+  },
+  {
+    "en": "closely",
+    "ja": "密接に"
+  },
+  {
+    "en": "deserve",
+    "ja": "値する"
+  },
+  {
+    "en": "identify",
+    "ja": "特定する"
+  },
+  {
+    "en": "loyal",
+    "ja": "常連の"
+  },
+  {
+    "en": "promising",
+    "ja": "有望な"
+  },
+  {
+    "en": "stress",
+    "ja": "強調する"
+  },
+  {
+    "en": "analyze",
+    "ja": "分析する"
+  },
+  {
+    "en": "commission",
+    "ja": "委託する"
+  },
+  {
+    "en": "committed",
+    "ja": "熱心に取り組む"
+  },
+  {
+    "en": "comparison",
+    "ja": "比較"
+  },
+  {
+    "en": "component",
+    "ja": "部品"
+  },
+  {
+    "en": "enable",
+    "ja": "可能にする"
+  },
+  {
+    "en": "enjoyable",
+    "ja": "楽しい"
+  },
+  {
+    "en": "existing",
+    "ja": "従来の"
+  },
+  {
+    "en": "flyer",
+    "ja": "チラシ"
+  },
+  {
+    "en": "proceed",
+    "ja": "進む"
+  },
+  {
+    "en": "prevent",
+    "ja": "妨げる"
+  },
+  {
+    "en": "alike",
+    "ja": "同様に"
+  },
+  {
+    "en": "appoint",
+    "ja": "任命する"
+  },
+  {
+    "en": "connection",
+    "ja": "接続"
+  },
+  {
+    "en": "eager",
+    "ja": "熱望して"
+  },
+  {
+    "en": "ease",
+    "ja": "容易さ"
+  },
+  {
+    "en": "fairly",
+    "ja": "かなり"
+  },
+  {
+    "en": "absolutely",
+    "ja": "完全に"
+  },
+  {
+    "en": "atmosphere",
+    "ja": "雰囲気"
+  },
+  {
+    "en": "calculate",
+    "ja": "計算する"
+  },
+  {
+    "en": "contrast",
+    "ja": "対照"
+  },
+  {
+    "en": "monitor",
+    "ja": "監視する"
+  },
+  {
+    "en": "occasionally",
+    "ja": "時々"
+  },
+  {
+    "en": "practical",
+    "ja": "実務の"
+  },
+  {
+    "en": "serious",
+    "ja": "重大な"
+  },
+  {
+    "en": "strength",
+    "ja": "強度"
+  },
+  {
+    "en": "equally",
+    "ja": "同じくらいに"
+  },
+  {
+    "en": "import",
+    "ja": "輸入品"
+  },
+  {
+    "en": "informal",
+    "ja": "非公式の"
   }
 ]
